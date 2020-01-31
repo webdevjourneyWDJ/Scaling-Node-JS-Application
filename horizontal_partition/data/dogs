@@ -1,0 +1,26 @@
+[
+  {
+    "name": "biscuit",
+    "color": "orange"
+  },
+  {
+    "name": "jungle",
+    "color": "black"
+  },
+  {
+    "name": "smokey",
+    "color": "grey"
+  },
+  {
+    "name": "fancy feast",
+    "color": "white"
+  },
+  {
+    "name": "peep",
+    "color": "orange"
+  },
+  {
+    "name": "bread",
+    "color": "orange"
+  }
+]
