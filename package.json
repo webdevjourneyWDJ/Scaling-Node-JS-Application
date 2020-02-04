@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/webdevjourneyWDJ/Scaling-Node-JS-Application#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "node-localstorage": "^2.1.5"
   }
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "5b805a00297ae6047030f2e0",
+    "name": "yodeling Concert",
+    "houseSize": 100,
+    "reserved": 10
+  },
+  {
+    "_id": "5b805a570cee1505a52bc75d",
+    "name": "Shakespeare Play",
+    "houseSize": 50,
+    "reserved": 10
+  },
+  {
+    "_id": "5b805a790cee1505a52bc75e",
+    "name": "Food Poison Rally",
+    "houseSize": 500,
+    "reserved": 500
+  }
+]
