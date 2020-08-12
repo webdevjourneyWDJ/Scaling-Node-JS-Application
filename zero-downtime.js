@@ -9,8 +9,8 @@ if(cluster.isMaster){
   }
 
   cluster.on('exit', worker => {
-    console.log(`worker process ${process.pid} had died.`);
-    // console.log(`only ${Object.keys(cluster.workers).length} remainging`)
+    console.log(`worker process ${worker.process.pid} had died.`);
+    console.log(`only ${Object.keys(cluster.workers).length} remainging`)
     console.log(`starting new worker`);
     cluster.fork();
   })
